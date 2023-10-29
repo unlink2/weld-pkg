@@ -2,7 +2,7 @@
 pkgname=weld
 pkgver=0.0.1
 pkgrel=1
-pkgdesc="A sympel symbolic link manager for unix "
+pkgdesc="A simpel symbolic link manager for unix "
 url="https://github.com/unlink2/weld"
 license=("MIT")
 arch=("any")
