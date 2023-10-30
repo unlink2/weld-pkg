@@ -1,15 +1,15 @@
 pkgbase = weld
-	pkgdesc = A simpel symbolic link manager for unix 
+	pkgdesc = A simpel symbolic link manager for unix
 	pkgver = 0.0.1
 	pkgrel = 1
 	url = https://github.com/unlink2/weld
 	arch = any
 	license = MIT
 	makedepends = gcc
-	makedepends = make 
-	makedepends = git 
-	provides = mji
-	source = mji::git+https://github.com/unlink2/weld
+	makedepends = make
+	makedepends = git
+	provides = weld
+	source = weld::git+https://github.com/unlink2/weld
 	sha256sums = SKIP
 
-pkgname = mji
+pkgname = weld
